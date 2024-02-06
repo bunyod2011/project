@@ -1,0 +1,2545 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+}
+/* navbar */
+.navbar{
+    background-color: rgb(255, 255, 255);
+}
+.default{
+    width: 8%;
+    margin-left: 14%;
+}
+.nav-ul{
+    margin-left: 30%;
+    font-size: 18px;
+    font-weight: 600;
+}
+.nav-btn{
+    border: none;
+    border-radius:10px ;
+    background-color: #000000;
+    color: rgb(240, 248, 255);
+    padding: 12px 36px;
+    font-size: 16px;
+    margin-left: 10%;  
+}
+/* banner */
+.ban-img1{
+    margin-left: 60%;
+    margin-top: 20%;
+    border-radius: 8px;
+    background-color: rgb(196, 196, 196);
+}
+.ban-img4{
+    margin-left: 41%;
+    margin-top: 15%;
+}
+.ban-text1{
+    margin-left: 42%;
+    font-size: 90px;
+    color: rgb(72, 72, 72);
+}
+.ban-text2{
+    font-size: 170px;
+    margin-left: 44%;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 2px rgba(0,0,0,1), 0 1px 1px rgba(0,0,0,0.1);
+}
+.ban-text3{
+   margin-left: 59%;
+   color: rgb(80, 80, 80); 
+   font-weight: 400;
+}
+.ban-btn{
+    border: none;
+    border-radius: 8px;
+    padding: 14px 60px;
+    margin-left: 59%;
+    background-color: #000000;
+    color: aliceblue;
+    margin-top: 2%;
+}
+.ban-img3{
+    margin-left: 41%;
+}
+.ban-img2{
+    margin-left: 20%;
+    margin-top: 15%;
+    border-radius: 8px;
+    background-color: rgb(196, 196, 196); 
+}
+.ban-icon1{
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px 10px;
+    color: aliceblue;
+    margin-left: 100%;
+    margin-top: 10%;
+}
+.ban-icon2{
+    font-size: 25px;
+    border-radius: 50%;
+    color: aliceblue;
+    background-color: #000000;
+    padding: 2% 3%;
+    margin-left: 115%;
+}
+.chanel{
+    text-align: center;
+    margin-top: 8%;
+    padding-bottom: 5%;
+}
+.channel{
+    padding-left: 5%;
+}
+/* banner2 */   
+.month{
+    font-family: serif;
+    margin-left: 30%;
+    font-weight: 500;
+    margin-top: 20%;
+    color: #484848;
+}
+.lorem{
+    margin-left: 30%;
+    font-size: 14px;
+    color: #8A8A8A;
+    margin-top: 3%;
+}
+.buy{
+    border: none;
+    border-radius: 8px;
+    padding: 8px 40px;
+    background-color: #000000;
+    color: aliceblue;
+    font-size: 14px;
+    margin-left: 30%;
+    margin-top: 3%;
+}
+.hurry{
+    margin-left: 30%;
+    margin-top: 5%;
+    color: #484848;
+}
+.num1{
+   margin-left: 28%;
+   width: 13%;
+   margin-top: 3%;
+}
+.num2{
+    width: 13%;
+    margin-top: 3%;
+}
+.num3{
+    width: 13%;
+    margin-top: 3%;
+}
+.num4{
+    width: 13%;
+    margin-top: 3%;
+}
+.Days{
+    margin-left: 30%;
+    font-size: 20px;
+}
+.her{
+    margin-left: 11%;
+    color: #484848;
+}
+.hir{
+   padding-left: 5px;
+   color: #484848;
+}
+.ban-icon{
+    margin-left: 27%;
+    padding-bottom: 5%;
+}
+.wom1{
+    margin-left: 17%;
+    margin-top: 25%;
+    
+}
+.wom2{
+    margin-top: 25%;
+    margin-left: 13%; 
+}
+.wom3{
+    margin-top: 38%;  
+}
+.slider{
+    margin-left: 35%;
+}
+/* banner3 */
+.arriv{
+    text-align:center ;
+    font-family: serif;
+    font-weight: 600;
+    font-size: 50px;
+    padding-top: 10%;
+}
+.ipsum{
+    font-size: 18px;
+    color: #8A8A8A;
+    padding-top: 1%;
+}
+.ban3-btn{
+    padding: 8px 40px;
+    border-radius: 8px;
+    margin-left: 3%;
+    margin-top: 4%;
+    border: none;
+    color: #8A8A8A;
+}
+.ban3-btn :hover{
+    background-color: #000000;
+    color: aliceblue;
+}
+.stars{
+    margin-left: 29%;
+    width: 35%;
+}
+.lady1{
+    width: 88%;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+.shiny{
+    font-size: 16px;
+    font-weight: 600;
+}
+.karam{
+    font-size: 12px;
+    color: #8A8A8A;
+}
+.customer{
+    font-size: 12px;
+    color: #484848;
+    font-weight: 600;
+    padding-top: 2%;
+}
+.number{
+    font-size: 19px;
+    padding-top: 3%;
+    font-weight: 600;
+    color: #484848;
+}
+.almost{
+    font-size: 10px;
+    margin-left: 45%;
+    color: #FF4646;
+}
+.card{
+    margin-top: 20%;
+    margin-left: 18%;
+    width: 18rem;
+}
+.stare{
+    margin-left: 25%;
+}
+.stara{
+    margin-left: 20%;
+}
+.more{
+    padding: 10px 40px;
+    border: none;
+    border-radius: 8px;
+    color: aliceblue;
+    background-color: #000000;
+    margin-top: 3%;
+    margin-left: 45%;
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+.pupl{
+    background-image: url(img/sec-img.png);
+    background-repeat: no-repeat;
+    margin-left: 6%;  
+}
+.sipendr{
+    margin-left: 35%;
+    padding-left: 5%;
+    margin-top: 3%;
+}
+.sipendr3{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.sipendr1{
+    margin-left: 46%;
+    margin-top: 3%;
+}
+.sipendr2{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.sipendr4{
+    margin-top: 3%;
+    
+}
+.sipendr5{
+    margin-top: 15%;
+    margin-left: 40%;
+    padding-bottom: 3%;
+}
+.pac{
+    background-color: #F8F8F8;
+}
+
+.collec{
+    margin-left: 5%;
+    margin-top: 15%;
+    color: #767676;
+}
+.blin{
+    font-size: 60px;
+    margin-left: 5%;
+    font-family: serif;
+    font-weight: 600;
+    color: #484848;
+}
+.rip{
+    font-size: 15px;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.amet{
+    margin-left: 5%;
+    font-size: 17px;
+    margin-top: 3%;
+    color: #767676;
+}
+.mira{
+    border-radius: 12px;
+    padding:  0 10px ;
+    background-color: #000000;
+    color: #F8F8F8;
+}
+.size{
+    margin-left: 5%;
+}
+.ber{
+    margin-left: 5%;
+    margin-top: 3%;
+    font-size: 21px;
+    font-weight: 600;
+}
+.now{
+    border: none;
+    border-radius: 8px;
+    background-color: #000000;
+    color: #F8F8F8;
+    padding: 10px 40px;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 12px;
+}
+.ser-icon1{
+    margin-top: 5%;
+}
+.from{
+    margin-left: 5%;
+}
+.ser-icon1{
+    margin-left: 7%;
+    padding-bottom: 2%;
+}
+.ser-icon0{
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
+.ser3{
+    background-color: rgb(255, 255, 255);
+}
+.follow{
+    text-align: center;
+    padding-top: 5%;
+    font-family: serif;
+    font-weight: 600;
+    color: #484848;
+}
+.ipsum{
+    text-align: center;
+}
+.odam1{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 8%;
+}
+.odam2{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.odam3{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.odam4{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.odam5{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.odam6{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.odam7{
+    width: 14%;
+    margin-top: 6%;
+    padding-bottom: 5%;
+}
+.this{
+    text-align: center;
+    font-family: serif;
+    color: #484848;
+    font-weight: 600;
+    padding-top: 8%;
+}
+.server4{
+    background-color: #FAFAFA;
+}
+.dolor{
+    text-align: center;
+    color: #8A8A8A;
+   padding-top: 1%;
+   font-size: 15px;
+}
+.carusel{
+    padding-left: 20%;
+}
+.suzan0{
+    width: 70%;
+    padding-left: 5%;
+}
+.car-btn{
+    border: none;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 8px 15px 8px 15px;
+    margin-left: 10px;
+    color: #727272;
+    margin-bottom: 5%;
+}
+.car-btn1{
+    border: none;
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 8px 15px 8px 15px;
+    margin-left: 47%;
+    color: #727171;
+    margin-bottom: 5%;
+}
+.suzan1{
+    width: 63%;
+    margin-left: 6%;
+}
+.boy{
+    margin-top: 25%;
+    margin-left: 45%;
+}
+.sub{
+    margin-top: 60%;
+    text-align: center;
+    font-family: serif;
+    font-weight: 600;
+    color: #484848;
+}
+.sol{
+    text-align: center;
+    color: #8A8A8A;
+    font-size: 14px;
+    margin-top: 3%;
+}
+.mail{
+    margin-left: 14%;
+    font-size: 17px;
+    color: #8A8A8A;
+    margin-top: 10%;
+}
+.fot-btn{
+    padding: 10px 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: #000000;
+    color: #F8F8F8;
+    margin-left: 35%;
+    margin-top: 6%;
+    font-size: 13px;
+}
+.boy1{
+    margin-top: 26%;
+    margin-left: 5%;
+}
+.lin{
+    color: #484848;
+}
+.fot-img{
+    margin-top: 2%;
+    width: 14%;
+    margin-left: 32%;
+}
+.footer-ul{
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.footer-ul li{
+    margin-left: 3%;
+    color: #484848;
+    padding-bottom: 4%;
+}
+.copy{
+    padding-top: 2%;
+    text-align: center;
+    color: #484848;
+}
+/* FOOTER */
+.fot-img1{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.fot-img2{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.fot-text{
+    margin-left: 10%;
+    margin-top: 8%;
+    font-family: serif;
+    font-weight: 600;
+}
+.fot-btn1{
+    padding: 7px 15px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid #5B86E5;
+    background-color: #ffffff;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.fot-btn2{
+    padding: 7px 15px;
+    border: none;
+    border-radius: 10px;
+    border: 1px solid #5B86E5;
+    background-color: #ffffff;
+    margin-left: 6% ;
+}
+.email{
+    width: 15%;
+}
+.or{
+    margin-left: 33%;
+    color: #838383;
+    margin-top: 5%;
+}
+.lim{
+    width: 56%;
+    margin-left: 10%;
+    color: #9D9D9D;
+    font-size: 10%;
+}
+.email1{
+    margin-left: 10%;
+    color: #9D9D9D;
+    margin-top: 4%;
+    
+}
+.email2{
+    margin-left: 10%;
+    color: #9D9D9D;
+    margin-top: 4%; 
+}
+.fot-btn3{
+    padding: 10px 20%;
+    margin-left: 15%;
+    border: none;
+    border-radius: 8px;
+    color: #5B86E5;
+    border: 1px solid #5B86E5;
+    background-color: #fff;
+    margin-top: 3%;
+    font-weight: 600;
+}
+.fot-btn4{
+    padding: 10px 163PX;
+    margin-left: 15%;
+    border: none;
+    border-radius: 8px;
+    color: #5B86E5;
+    border: 1px solid #5B86E5;
+    background-color: #fff;
+    margin-top: 3%;
+    font-weight: 600;
+}
+.fot-btn3 :hover{
+    background-color: #000000;
+    color: aliceblue;
+}
+.fot-btn4 :hover{
+    background-color: #000000;
+    color: aliceblue;
+}
+.pas{
+    margin-left: 48%;
+    color: #5B86E5;
+    font-weight: 600;
+    margin-top: 2%;
+    font-size: 15px;
+}
+.terms{
+    margin-left:50%;
+    margin-top: 11%;
+    font-size: 16px;
+    font-weight: 500;
+}
+@media only screen and (min-width:280px) and (max-width:653px){
+    .nav-btn{
+        margin-left: 30%;
+        padding: 5px 30px;
+     }
+     .default{
+        width: 27%;
+        margin-left: 7%;
+    }
+    .nav-ul{
+        text-align: center;
+        margin: 0;
+    }
+    .ban-img1{
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+    .ban-img4{
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+    .ban-text1{
+        margin: 0;
+        font-size: 90px;
+        color: rgb(72, 72, 72);
+        font-size: 50px;
+        margin-left: 5%;
+    }
+    .ban-text2{
+        font-size: 100px;
+        margin: 0;
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 2px rgba(0,0,0,1), 0 1px 1px rgba(0,0,0,0.1);
+        width: 90%;
+        margin-left: 5%;
+    }
+    .ban-text3{
+       margin: 0;
+       color: rgb(80, 80, 80); 
+       font-weight: 400;
+       width: 90%;
+       font-size: 15px;
+       text-align: center;
+       padding-left: 5%;
+    }
+    .ban-btn{
+        border: none;
+        border-radius: 8px;
+        padding: 14px 60px;
+        margin: 0;
+        background-color: #000000;
+        color: aliceblue;
+        margin-top: 2%;
+        margin-left: 10%;
+        margin-top: 3%;
+    }
+    .ban-img3{
+        margin: 0;
+        width: 100%;
+    }
+    .ban-img2{
+        width: 100%;
+        margin: 0;  
+        margin-top: 5%;
+    }
+    .vutton{
+        margin-left: 5%;
+    }
+    .channel{
+        margin: 0;
+        margin-top: 10%;
+    }
+    .month{
+        margin: 0;
+        text-align: center;
+        margin-top: 3%;
+    }
+    .lorem{
+        text-align: center;
+        margin: 0;
+        margin-top: 3%;
+    }
+    .buy{
+        margin: 0;
+        margin-left: 22%;
+        margin-top: 5%;
+    }
+    .hurry{
+        margin: 0;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 3%;
+    }
+    .num1{
+        margin: 0;
+        margin-left: 15%;
+        margin-top: 3%;
+        width: 17%;
+    }
+    .num2{
+        width: 17%;
+    }
+    .num3{
+        width: 17%;
+    }
+    .num4{
+        width: 17%;
+    }
+    .Days{
+        margin: 0;
+        font-size: 13px;
+    }
+    .her{
+        margin-left: 9%;
+    }
+    .hir{
+        margin-left: 15%;
+    }
+    .ban-icon{
+        display: none;
+    }
+    .wom1{
+       display: none;
+    }
+    .wom2{
+        display: none;
+    }
+    .wom3{
+        display: none; 
+    }
+    .slider{
+        display: none;
+    }
+    .ban3-btn{
+        margin: 0;
+        margin-top: 3%;
+        text-align: center;
+     }
+     .card{
+        margin-left: 4%;
+        width: 90%;
+     }
+     .vektor{
+        display: none;
+     }
+     .pupl{
+        display: none;
+     }
+    .more{
+        margin-left: 20%;
+    }
+    .collec{
+        text-align: center;
+        font-size: 20px;
+    }
+    .blin{
+        text-align: center;
+        font-size: 35px;
+    }
+    .rip{
+        text-align: center;
+    }
+    .amet{
+        text-align: center;
+    }
+    .size{
+        margin-left: 37%;
+    }
+    .ber{
+        margin-left: 35%;
+    }
+    .now{
+        margin-left: 25%;
+        margin-bottom: 4%;
+    }
+    .ser-icon0{
+          width: 90%;
+          margin-left: 20%;
+     }
+     .ser-icon1{
+        width: 75%;
+        margin-left: 20%;
+     }
+     .odam1{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam2{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam3{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam4{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam5{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam6{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam7{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .carusel{
+        padding-left: 0;
+        margin-right: 15%;
+    }
+    .suzan0{
+         width: 120%;
+         margin: 0;
+         padding-left: 0;
+         margin-left: -10%;
+    }
+    .suzan1{
+        width: 116%;
+        margin-left: -10%;
+    }
+    .car-btn1{
+        margin: 0;
+        margin-left: 33%;
+    }
+    .car-btn{
+        margin: 0;
+    }
+    .this{
+        font-size: 18px;
+    }
+    .dolor{
+        font-size: 10px;
+    }
+    .boy{
+        width: 70%;
+        margin-left: 15%;
+    }
+    .boy1{
+        width: 70%;
+        margin-left: 5%;
+    }
+    .sub{
+        font-size: 20px;
+    }
+    .sol{
+        font-size: 10px;
+    }
+    .mail{
+        font-size: 14px;
+        margin-left: 3%;
+    }
+    .fot-btn{
+        margin-left: 15%;
+    }
+    .fot-img{
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 4%;
+    }
+    .footer-ul{
+        margin-left: 0;
+    }
+    .footer-ul ,sup{   
+        margin-left: 0;
+        padding-left: 0;
+        margin-top: 3%;
+        text-align: center;
+    }
+    .copy{
+        text-align: center;
+        font-size: 10px;
+        margin-top: 2%;
+    }
+    .fot-img1{
+        margin: 0;
+        width: 90%;
+        padding-left: 8%;
+    }
+    .fot-img2{
+        margin: 0;
+        width: 60%;
+        padding-left: 33%;
+        margin-top: 5%;
+    }
+    .fot-text{
+        margin: 0;
+        padding-left: 15%;
+        padding-top: 5%;
+    }
+    .fot-btn1{
+        margin: 0;
+        margin-left: 8%;
+        margin-top: 5%;
+    }
+    .fot-btn2{
+        margin: 0;
+        margin-left: 7%;
+        margin-top: 4%;
+        font-size: 16px;
+    }
+    .or{
+        margin: 0;
+        margin-left: 40%;
+        margin-top: 5%;
+    }
+    .email1{
+        margin: 0;
+        margin-left: 12%;
+        margin-top: 10%;
+    }
+    .email2{
+        margin: 0;
+        margin-left: 11%;
+        margin-top: 5%;
+    }
+    .lim{
+        margin: 0;
+        width: 100%;
+    }
+    .fot-btn3{
+        margin: 0;
+        padding: 8px 80px;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    .fot-btn4{
+        margin: 0;
+        padding: 8px 57px;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    .pas{
+        margin: 0;
+        margin-left: 30%;
+        font-size: 14px;
+        margin-top: 1%;
+    }
+    .terms{
+        margin: 0;
+        text-align: center;
+        font-size: 13px;
+        margin-top: 8%;
+    }
+}
+@media only screen and (min-width:360px) and (max-width:740px){
+    .nav-btn{
+        margin-left: 36%;
+     }
+     .default{
+        width: 24%;
+     }
+     .ban-img1{
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+    .ban-img4{
+        width: 100%;
+        margin: 0;
+        margin-top: 5%;
+    }
+    .ban-text1{
+        margin: 0;
+        font-size: 90px;
+        color: rgb(72, 72, 72);
+        font-size: 70px;
+        margin-left: 5%;
+    }
+    .ban-text2{
+        font-size: 140px;
+        margin: 0;
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 2px rgba(0,0,0,1), 0 1px 1px rgba(0,0,0,0.1);
+        width: 90%;
+        margin-left: 5%;
+    }
+    .ban-text3{
+       margin: 0;
+       color: rgb(80, 80, 80); 
+       font-weight: 400;
+       width: 90%;
+       font-size: 20px;
+       text-align: center;
+       padding-left: 8%;
+    }
+    .ban-btn{
+        border: none;
+        border-radius: 8px;
+        padding: 14px 60px;
+        margin: 0;
+        background-color: #000000;
+        color: aliceblue;
+        margin-top: 2%;
+        margin-left: 20%;
+        margin-top: 3%;
+    }
+    .ban-img3{
+        margin: 0;
+        width: 100%;
+    }
+    .ban-img2{
+        width: 100%;
+        margin: 0;  
+        margin-top: 5%;
+    }
+    .channel{
+        margin: 0;
+        margin-top: 10%;
+    }
+    .vutton{
+        margin-left: 5%;
+    }
+    .month{
+        margin-left: 0;
+        text-align: center;
+    }
+    .lorem{
+        margin:0;
+        text-align: center;
+    }
+    .hurry{
+        margin:0;
+        text-align: center;
+        margin-top: 4%;
+    }
+    .num1{
+        margin-left: 15%;
+    }
+    .num2{
+        margin-top: 3%;
+    }
+    .num3{
+        width: 17%;
+        margin-top: 3%;
+    }
+    .num4{
+        width: 17%;
+        margin-top: 3%;
+    }
+    .Days{
+        margin-left: 8%;
+        font-size: 14px;
+    }
+    .hir{
+        margin-left: 10%;
+    }
+    .her{
+        margin-left: 12%;
+    }
+    .buy{
+        margin-left: 30%;
+    }
+    .ban-icon{
+        display: none;
+    }
+    .wom1{
+       display: none;
+    }
+    .wom2{
+        display: none;
+    }
+    .wom3{
+        display: none; 
+    }
+    .slider{
+        display: none;
+    }
+    .ban3-btn{
+        margin: 0;
+        margin-top: 3%;
+        text-align: center;
+     }
+     .card{
+        margin: 0;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    .pupl{
+        display: none;
+    }
+    .vektor{
+        display: none;
+    }
+    .more{
+        margin-left: 28%;
+    }
+    .collec{
+        margin-left: 0;
+        text-align: center;
+    }
+    .blin{
+        margin-left: 0;
+        text-align: center;
+        font-size: 40px;
+    }
+    .rip{
+        text-align: center;
+    }
+    .amet{
+        text-align: center;
+    }
+    .size{
+        margin-left: 43%;
+    }
+    .ber{
+        margin-left: 40%;
+    }
+    .now{
+        margin-left: 32%;
+        margin-bottom: 3%;
+    }
+    .ser-icon{
+        margin: 0;
+    }
+    .ser-icon0{
+        margin-left: 29%;
+        width: 80%;
+        padding: 0;
+    }
+    .ser-icon1{
+        margin-left: 29%;
+        width: 60%;
+        padding: 0;
+        margin-top: 5%;
+    }
+    .odam1{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam2{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam3{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam4{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam5{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam6{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .odam7{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .carusel{
+        padding-left: 0;
+        margin-right: 15%;
+    }
+    .suzan0{
+         width: 120%;
+         margin: 0;
+         padding-left: 0;
+         margin-left: -10%;
+    }
+    .suzan1{
+        width: 116%;
+        margin-left: -10%;
+    }
+    .car-btn1{
+        margin: 0;
+        margin-left:  35%; 
+    }
+    .car-btn{
+        margin: 0;
+    }
+    .this{
+        font-size: 22px;
+    }
+    .dolor{
+        font-size: 15px;
+    }
+    .boy{
+        margin-left: 10%;
+        width: 80%;
+    }
+    .boy1{
+        width: 80%;
+    }
+    .fot-btn{
+        margin-left: 30%;
+    }
+    .sub{
+        font-size: 25px;
+    }
+    .sol{
+        font-size: 10px;
+    }
+    .mail{
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .fot-img{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .boy1{
+        width: 80%;
+    }
+    .fot-btn{
+        margin-left: 25%;
+    }
+    .sub{
+        font-size: 25px;
+    }
+    .sol{
+        font-size: 10px;
+    }
+    .mail{
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .fot-img{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .footer-ul{
+        margin-left: 0;
+
+    }
+ .footer-ul ,sup{
+    text-align: center;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 5%;
+}
+.fot-img1{
+    margin: 0;
+    width: 90%;
+    padding-left: 8%;
+}
+.fot-img2{
+    margin: 0;
+    width: 60%;
+    padding-left: 33%;
+    margin-top: 5%;
+}
+.fot-text{
+    margin: 0;
+    padding-left: 23%;
+    padding-top: 5%;
+}
+.fot-btn1{
+    margin: 0;
+    margin-left: 18%;
+    margin-top: 5%;
+}
+.fot-btn2{
+    margin: 0;
+    margin-left: 17%;
+    margin-top: 4%;
+    font-size: 16px;
+}
+.or{
+    margin: 0;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.email1{
+    margin: 0;
+    margin-left: 12%;
+    margin-top: 10%;
+}
+.email2{
+    margin: 0;
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.lim{
+    margin: 0;
+    width: 100%;
+}
+.fot-btn3{
+    margin: 0;
+    padding: 8px 113px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.fot-btn4{
+    margin: 0;
+    padding: 8px 90px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.pas{
+    margin: 0;
+    margin-left: 55%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.terms{
+    margin: 0;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 8%;
+}
+}
+@media only screen and (min-width:375px) and (max-width:600px){
+    .nav-ul{
+       text-align: center;
+       margin: 0;
+       padding: 0;
+    }
+    .default{
+        width:25%;
+        padding-left: 3%;
+    }
+    .nav-btn{
+       margin-left: 37%;
+    }
+    .default{
+        margin: 0;
+    }
+    /* banner */
+    .ban-img1{
+        width: 90%;
+        margin: 0;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+    .ban-img4{
+        width: 90%;
+        margin: 0;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+    .ban-text1{
+        margin: 0;
+        font-size: 90px;
+        color: rgb(72, 72, 72);
+        font-size: 70px;
+        margin-left: 5%;
+    }
+    .ban-text2{
+        font-size: 140px;
+        margin: 0;
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 2px rgba(0,0,0,1), 0 1px 1px rgba(0,0,0,0.1);
+        width: 90%;
+        margin-left: 5%;
+    }
+    .ban-text3{
+       margin: 0;
+       color: rgb(80, 80, 80); 
+       font-weight: 400;
+       width: 90%;
+       font-size: 20px;
+       text-align: center;
+    }
+    .ban-btn{
+        border: none;
+        border-radius: 8px;
+        padding: 14px 60px;
+        margin: 0;
+        background-color: #000000;
+        color: aliceblue;
+        margin-top: 2%;
+        margin-left: 20%;
+        margin-top: 3%;
+    }
+    .ban-img3{
+        margin: 0;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .ban-img2{
+        width: 90%;
+        margin: 0;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+    .channel{
+        margin: 0;
+        margin-top: 10%;
+    }
+    /* banner2 */
+    .month{
+        margin-left: 0;
+        text-align: center;
+    }
+    .lorem{
+        margin:0;
+        text-align: center;
+    }
+    .hurry{
+        margin:0;
+        text-align: center;
+        margin-top: 4%;
+    }
+    .num1{
+        margin-left: 15%;
+    }
+    .num2{
+        margin-top: 3%;
+    }
+    .num3{
+        width: 17%;
+        margin-top: 3%;
+    }
+    .num4{
+        width: 17%;
+        margin-top: 3%;
+    }
+    .Days{
+        margin-left: 8%;
+        font-size: 14px;
+    }
+    .hir{
+        margin-left: 10%;
+    }
+    .her{
+        margin-left: 12%;
+    }
+    .buy{
+        margin-left: 30%;
+    }
+    .ban-icon ,.wom1 ,.wom2 ,.wom3 ,.slider{
+        display: none;
+    }
+    .arriv{
+        font-size: 40px;
+    }
+    .ban3-btn{
+       margin: 0;
+       margin-top: 3%;
+       text-align: center;
+    }
+    .card{
+        margin: 0;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    .vektor{
+        display: none;
+    }
+    .more{
+        margin-left: 28%;
+    }
+    .collec{
+        margin-left: 0;
+        text-align: center;
+    }
+    .blin{
+        margin-left: 0;
+        text-align: center;
+        font-size: 40px;
+    }
+    .rip ,.amet{
+        text-align: center;
+    }
+    .size{
+        margin-left: 43%;
+    }
+    .ber{
+        margin-left: 40%;
+    }
+    .now{
+        margin-left: 32%;
+        margin-bottom: 3%;
+    }
+    .men ,.ser-icon{
+        margin: 0;
+    }
+    .ser-icon0{
+        margin-left: 29%;
+        width: 80%;
+        padding: 0;
+    }
+    .ser-icon1{
+        margin-left: 29%;
+        width: 60%;
+        padding: 0;
+        margin-top: 5%;
+    }
+    .odam1 ,.odam2 ,.odam3 ,.odam4 ,.odam5 ,.odam6 ,.odam7 {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .carusel{
+        padding-left: 0;
+        margin-right: 15%;
+    }
+    .suzan0{
+         width: 120%;
+         margin: 0;
+         padding-left: 0;
+         margin-left: -10%;
+    }
+    .suzan1{
+        width: 116%;
+        margin-left: -10%;
+    }
+    .car-btn1{
+        margin: 0;
+        margin-left:  35%;
+        
+    }
+    .car-btn{
+        margin: 0;
+        margin-bottom: 5%;
+}
+.this{
+    font-size: 22px;
+}
+.dolor{
+    font-size: 15px;
+}
+.boy{
+    margin-left: 10%;
+    width: 80%;
+}
+.boy1{
+    width: 80%;
+}
+.fot-btn{
+    margin-left: 25%;
+}
+.sub{
+    font-size: 25px;
+}
+.sol{
+    font-size: 10px;
+}
+.mail{
+    margin-left: 10%;
+    font-size: 15px;
+}
+.fot-img{
+    width: 50%;
+    margin-left: 25%;
+}
+.footer-ul{
+    margin-left: 0;
+
+}
+.footer-ul ,sup{
+    text-align: center;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 5%;
+}
+.footer1{
+    margin: 0;
+}
+.fot-img1 {
+    width: 90%;
+    padding-left: 8%;
+}
+.fot-img2{
+    width: 60%;
+    padding-left: 33%;
+    margin-top: 5%;
+}
+.fot-text{
+    padding-left: 23%;
+    padding-top: 5%;
+}
+.fot-btn1{
+    margin-left: 18%;
+    margin-top: 5%;
+}
+.fot-btn2{
+    margin-left: 17%;
+    margin-top: 4%;
+    font-size: 16px;
+}
+.or{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.email1{
+    margin-left: 12%;
+    margin-top: 10%;
+}
+.email2{
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.lim{
+    width: 100%;
+}
+.fot-btn3{
+    padding: 8px 113px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.fot-btn4{
+    margin: 0;
+    padding: 8px 90px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.pas{
+    margin-left: 55%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.terms{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 8%;
+}
+}
+@media only screen and (min-width:600px) and (max-width:1024px){
+    .nav-ul{
+        margin: 0;
+        text-align: center;
+        font-size: 25px;
+    }
+    .default{
+        width: 15%;
+        margin: 0;
+        margin-left:5% ;
+    }
+    .nav-btn{
+        margin-left: 40%;
+        padding: 8px 45px;
+        font-size: 25px;
+     }
+     /* banner */
+     .ban-img1{
+        width: 100%;
+        margin: 0;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .ban-img4{
+        width: 100%;
+        margin: 0;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .ban-text1{
+        margin: 0;
+        font-size: 90px;
+        color: rgb(72, 72, 72);
+        font-size: 70px;
+        margin-left: 35%;
+    }
+    .ban-text2{
+        font-size: 140px;
+        margin: 0;
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 2px rgba(0,0,0,1), 0 1px 1px rgba(0,0,0,0.1);
+        width: 90%;
+        text-align: center;
+        padding-left: 30%;
+    }
+    .ban-text3{
+       margin: 0;
+       font-size: 20px;
+       text-align: center;
+       padding-left: 20%;
+    }
+    .ban-btn{
+        border: none;
+        border-radius: 8px;
+        padding: 14px 60px;
+        margin: 0;
+        background-color: #000000;
+        color: aliceblue;
+        margin-top: 2%;
+        margin-left: 45%;
+        margin-top: 3%;
+    }
+    .ban-img3{
+        margin: 0;
+        width: 100%;
+        margin-left: 10%;
+    }
+    .ban-img2{
+        width: 100%;
+        margin: 0;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .channel{
+        margin-top: 5%;
+    }
+    .vutton{
+        margin-top: 5%;
+    }
+    .month{
+        font-size: 50px;
+    }
+    .lorem{
+        font-size: 25px;
+        text-align: center;
+    }
+    .buy{
+        margin-left: 48%;
+        padding: 10px 60px;
+        font-size: 15px;
+    }
+    .hurry{
+        margin-left: 42%;
+    }
+    .num1{
+       margin-left: 35%;
+    }
+    .Days{
+        margin-left: 38%;
+    }
+    .ban3-btn{
+        margin: 0;
+        margin-top: 3%;
+        text-align: center;
+     }
+     .card{
+        margin-left: 7%;
+     }
+     .vektor{
+        display: none;
+    }
+    .pupl{
+        margin-left: 0;
+    }
+    .collec{
+        font-size: 25px;
+    }
+    .blin ,.collec ,.rip ,.amet{
+        text-align: center;
+    }
+    .size{
+        margin-left: 45%;
+    }
+    .ber{
+        margin-left: 44%;
+    }
+    .now{
+        margin-left: 40%;
+        margin-bottom: 4%;
+    }
+    .ser-icon{
+        margin-left: 8%;
+    }
+    .odam1 ,.odam2 ,.odam3 ,.odam4 ,.odam5 ,.odam6 ,.odam7{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .follow{
+        font-size: 60px;
+    }
+    .carusel{
+        padding-left: 0;
+        margin-right: 15%;
+    }
+    .suzan0{
+         width: 120%;
+         margin: 0;
+         padding-left: 0;
+         margin-left: -10%;
+    }
+    .suzan1{
+        width: 116%;
+        margin-left: -10%;
+    }
+    .car-btn1{
+        margin: 0;
+        margin-left:  45%;
+        margin-bottom: 5%;
+        
+    }
+    .car-btn{
+        margin: 0;
+}
+.boy{
+    margin-left: 24%;
+    width: 80%;
+}
+.boy1{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 80%;
+}
+.fot-btn{
+    margin-left: 45%;
+}
+.sub{
+    font-size: 35px;
+}
+.sol{
+    font-size: 15px;
+}
+.mail{
+    margin-left: 10%;
+    font-size: 15px;
+}
+.our{
+    margin-left: 20%;
+}
+.fot-img{
+    width: 40%;
+    margin-left: 25%;
+    margin-top: 4%;
+}
+.footer1{
+    margin: 0;
+}
+.footer-ul{
+    margin-left: 0;
+}
+.footer-ul ,sup{   
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 2%;
+}
+.copy{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 2%;
+}
+.fot-img1{
+    width: 90%;
+    padding-left: 8%;
+}
+.fot-img2{
+    width: 60%;
+    padding-left: 33%;
+    margin-top: 5%;
+}
+.fot-text{
+    padding-left: 30%;
+    padding-top: 5%;
+    font-size: 30px;
+}
+.fot-btn1{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.fot-btn2{
+    margin-left: 6%;
+    margin-top: 4%;
+    font-size: 16px;
+}
+.or{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.email1{
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.email2{
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.lim{
+    width: 100%;
+}
+.fot-btn3{
+    padding: 10px 200px;
+    margin-top: 5%;
+    margin-left: 17%;
+}
+.fot-btn4{
+    padding: 10px 178px;
+    margin-top: 5%;
+    margin-left: 17%;
+}
+.pas{
+    margin-left: 60%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+.terms{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 8%;
+}
+}
+@media only screen and (min-width:1024px) and (max-width:1279px){
+    .nav-ul{
+      margin: 0;
+      margin-left: 8%;
+      font-size: 18px;
+    }
+    .nav-btn{
+        margin: 0;
+        margin-left: 12%;
+        padding: 4px 20px;
+        font-size: 18px;
+    }
+    .default{
+        width: 9%;
+    }
+    /* banner */
+    .ban-img1{
+        width: 116%;
+        margin-left: 26%;
+    }
+    .ban-img2{
+        width: 85%;
+        margin-left: 35%;
+    }
+    .ban-img3{
+        margin-left: 20%;
+        margin-left: 35%;
+    }
+    .ban-img4{
+        margin-left: 20%;
+        margin-left: 35%;
+    }
+    .ban-text1{
+        font-size: 55px;
+        margin-left: 40%;
+    }
+    .ban-text2{
+        font-size: 700%;
+        margin-left: 15%;
+    }
+    .ban-text3{
+        font-size: 15px;
+        text-align: center;
+        padding-left: 55%;
+    }
+    .ban-btn{
+        padding: 5px 20px;
+        margin: 0;
+        margin-left: 58%;
+        margin-top: 3%;
+    }
+    .channel{
+        width: 20%;
+    }
+    .vutton{
+        width: 19%;
+    }
+    .month{
+       margin: 0;
+       font-size: 27px;
+       margin-top: 14%;
+       margin-left: 10%;
+    }
+    .lorem{
+        font-size: 13px;
+        margin-left: 0;
+    }
+    .buy{
+        margin: 0;
+        margin-left: 25%;
+        padding: 5px 30px;
+    }
+    .hurry{
+        margin: 0;
+        font-size: 15px;
+        margin-left: 15%;
+        margin-top: 5%;
+    }
+    .num1{
+        margin: 0;
+        margin-left: 15%;
+    }
+    .Days{
+        margin: 0;
+    }
+   .her{
+    margin-left: 5%;
+    font-size: 15px;
+   }
+   .hir{
+    margin: 0;
+    font-size: 15px;
+    margin-left: 15%;
+   }
+   .wom1{
+    width: 90%;
+    margin-left: 0;
+   }
+   .wom2{
+     width: 90%;
+     margin-left: 0;
+   }
+   .wom3{
+    width: 120%;
+    margin-left: 0;
+   }
+   .ban-icon{
+    width: 50%;
+    margin-left: 18%;
+   }
+   .card{
+    margin-left: 2%;
+   }
+   .pupl{
+       display: none;
+   }
+   .men{
+    margin-left: 20%;
+   }
+   .duis{
+    display: none;
+   }
+   .ser-icon{
+    margin-left: 0;
+   } 
+   .ser-icon0{
+    width: 25%;
+    margin-left: 3%;
+   }
+   .ser-icon1{
+    width: 20%;
+    margin-left: 3%;
+   }
+   .odam1{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%;
+        margin-left: 3%;
+}
+   .odam2{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%; 
+}
+    .odam3{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%;
+}
+    .odam4{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%;
+}
+    .odam5{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%;
+}
+    .odam6{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%; 
+}
+    .odam7{
+        width: 13%;
+        margin: 0;
+        margin-top: 6%; 
+}
+    .follow{
+        font-size: 40px;
+}
+.carusel{
+    padding-left: 0;
+    margin-right: 15%;
+}
+.suzan0{
+     width: 93%;
+     margin: 0;
+     padding-left: 10%;
+}
+.suzan1{
+    width: 100%;
+    padding-left: 25%;  
+}
+.car-btn1{
+    margin: 0;
+    margin-left: 45%;
+}
+.car-btn{
+    margin: 0;
+}
+.boy{
+    margin-left: 15%;
+}
+.sub{
+    font-size: 20px;
+}
+.sol{
+    font-size: 12px;
+}
+.fot-btn{
+    margin-left: 35%;
+}
+.boy1{
+    margin-top: 25%;
+}
+.sub{
+    font-size: 25px;
+}
+.fot-btn{
+    margin-left: 35%;
+}
+.fot-img{
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.footer-ul{
+    margin-left: 0;
+}
+.footer-ul ,sup{   
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 2%;
+    font-size: 15px;
+}
+.copy{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 2%;
+}
+.fot-img1{
+    margin: 0;
+    width: 110%;
+    padding-left: 0;
+    margin-top: 5%;
+}
+.fot-img2{
+    margin: 0;
+    width: 50%;
+    padding-left: 22%;
+    margin-top: 15%;
+}
+.fot-text{
+    margin: 0;
+    padding-left: 22%;
+    padding-top: 5%;
+    font-size: 25px;
+}
+.fot-btn1{
+    margin: 0;
+    margin-left: 22%;
+    margin-top: 5%;
+}
+.fot-btn2{
+    margin: 0;
+    margin-left: 22%;
+    margin-top: 4%;
+    font-size: 16px;
+}
+.or{
+    margin: 0;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.email1{
+    margin: 0;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.email2{
+    margin: 0;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.lim{
+    margin: 0;
+    width: 90%;
+    margin-left: 8%;
+}
+.fot-btn3{
+    margin: 0;
+    padding: 8px 124px;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.fot-btn4{
+    margin: 0;
+    padding: 8px 100px;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+.terms{
+    margin: 0;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 4%;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+    .ban-icon ,.wom1 ,.wom2 ,.wom3 ,.slider{
+        display: none;
+    } 
+ }
+
+@media only screen and (min-width:540px) and (max-width:720px){
+    .nav-btn{
+        margin: 0;
+        margin-left: 40%;
+    }
+    .default{
+        width: 18%;
+    }
+    .vutton{
+        margin-top: 10%;
+    }
+    .ban-text1{
+        margin: 0;
+        text-align: center;
+    }
+    .ban-text2{
+        margin: 0;
+       padding-left: 20%;
+    }
+    .ban-btn {
+        margin: 0;
+        margin-left: 28%;
+        margin-top: 5%;
+    }
+    .her{
+        margin-left: 14%;
+       }
+    .hir{
+        margin: 0; 
+        margin-left: 12%;
+       }
+    .buy{
+        margin-left: 35%;
+    }
+    .ban-icon ,.wom1 ,.wom2 ,.wom3 ,.slider{
+        display: none;
+    }
+    .card{
+        margin-left: 5%; 
+    }
+    .now{
+        margin-left: 40%;
+    }
+    .size{
+        margin-left: 45%;
+    }
+    .ber{
+        margin-left: 5%;
+    }
+    .more{
+        margin-left: 35%;
+    }
+    .carusel{
+        padding-left: 0;
+        margin-right: 15%;
+    }
+    .suzan0{
+         width: 120%;
+         margin: 0;
+         padding-left: 0;
+         margin-left: -10%;
+    }
+    .suzan1{
+        width: 116%;
+        margin-left: -10%;
+    }
+    .car-btn1{
+        margin: 0;
+        margin-left: 40%;
+        
+    }
+    .car-btn{
+        margin: 0;
+        margin-bottom: 5%;
+    }
+    .footer1{
+        margin: 0;
+    }
+    .fot-btn{
+        margin-left: 35%;
+    }
+    .boy1{
+        margin-top: 5%;
+    }
+    .fot-img{
+        width: 20%;
+        margin-left: 35%;
+        margin-top: 2%;
+    }
+    .fot-img1{
+        width: 90%;
+        padding-left: 8%;
+    }
+    .fot-img2{
+        width: 60%;
+        padding-left: 33%;
+        margin-top: 5%;
+    }
+    .fot-text{
+        padding-left: 25%;
+        padding-top: 5%;
+        font-size: 30px;
+    }
+    .fot-btn1{
+        margin-left: 26%;
+        margin-top: 5%;
+    }
+    .fot-btn2{
+        margin-left: 26%;
+        margin-top: 4%;
+        font-size: 16px;
+    }
+    .or{
+        margin-left: 43%;
+        margin-top: 5%;
+    }
+    .email1{
+        margin-left: 8%;
+        margin-top: 10%;
+    }
+    .email2{
+        margin-left: 8%;
+        margin-top: 5%;
+    }
+    .lim{
+        width: 100%;
+    }
+    .fot-btn3{
+        padding: 10px 134px;
+        margin-top: 5%;
+        margin-left: 17%;
+    }
+    .fot-btn4{
+        padding: 10px 110px;
+        margin-top: 5%;
+        margin-left: 17%;
+    }
+    .pas{
+        margin-left: 60%;
+        font-size: 14px;
+        margin-top: 1%;
+    }
+    .terms{
+        text-align: center;
+        font-size: 13px;
+        margin-top: 8%;
+    }
+}
+@media only screen and (min-width:1280px) and (max-width:1380px){
+    .navbar{
+        margin: 0;
+    }
+    .nav-ul{
+        margin-left: 30%;   
+      }
+      .nav-btn{
+        margin-left: 10%;
+      }
+      .default{
+        margin-left: 5%;
+      }
+      .banner{
+        margin: 0;
+      }
+      .ban-img1{
+        margin-left: 8%;
+        margin-top: 19%;
+      }
+      .ban-img4{
+        margin-left:29% ;
+        width: 100%;
+      }
+      .ban-img3{
+        margin-left:29%;
+        width: 100%;
+        margin-top: 20%;
+      }
+      .ban-text1{
+        font-size: 75px;
+        margin-left:35% ;
+      }
+      .ban-text2{
+        font-size: 124px;
+        margin-left: 40%;
+      }
+      .ban-text3{
+        margin-left: 50%;
+      }
+      .ban-btn{
+        padding: 10px 30px;
+        margin-left: 57%;
+        margin-top: 10%;
+      }
+      .ban-img2{
+        margin-left: 27%;
+        margin-top: 13%;
+      }
+      .channel ,.vutton{
+        margin-top: 5%;
+      }
+      .lorem{
+       margin-left: 10%;
+       font-size: 10px;
+      }
+      .num1{
+        margin-top: 3%;
+        margin-left: 5%;
+      }
+      .Days{
+        margin-left: 5%;
+      }
+      .hurry ,.her{
+        margin-left: 7%;
+      }
+      .buy{
+        margin-left: 10%;
+    }
+      .ban-icon{
+        margin-left: 20%;
+        width: 70%;
+      }
+      .ban3-btn{
+        margin: 0;
+        margin-top: 3%;
+        text-align: center;
+     }
+     .card{
+        margin-left: 12%;
+     }
+    .men{
+        margin-left: 1%;
+    }
+    .pac{
+       margin-left: 0;
+    }
+    .vektor{
+        display: none;
+    }
+    .sipendr1{
+        width: 40%;
+        margin-left: 60%;
+    }
+    .sipendr2 ,.sipendr3 ,.sipendr4 ,.sipendr5{
+        width: 40%;
+    }
+    .sipendr3{
+        margin-left: 60%;
+        margin-top: 10%;
+    }
+    .sipendr4{
+       margin-left: 3%;
+    }
+    .sipendr5{
+        margin-left: 60%;
+        margin-top: 20%;
+    }
+       .ser-icon{
+          margin-left: 0;
+       } 
+       .ser-icon0 ,.wom1 ,.wom2 ,.wom3{
+          width: 100%;
+          margin-left: 0;
+       }
+       .ser-icon1{
+          margin-left: 4%;
+       }
+       .wom3{
+          width: 118%;
+       }
+       .month{
+          margin-left: 3%;
+          font-size: 40px;
+}
+.odam1{
+    width: 13%;
+    margin: 0;
+    margin-top: 6%;
+    margin-left: 3%;
+}
+.odam2 ,.odam3 ,.odam4 ,.odam5 ,.odam6 ,.odam7{
+    width: 13%;
+    margin: 0;
+    margin-top: 6%; 
+}
+.boy{
+    margin-left: 10%;
+}
+.sub{
+    font-size: 30px;
+}
+.sol{
+    font-size: 14px;
+}
+.mail{
+    margin-left: 6%;
+    font-size: 15px;
+}
+.fot-btn{
+    margin-left: 28%;
+}
+.fot-img1{
+    width: 100%;
+    margin: 0;
+    margin-top: 10%;
+}
+.fot-btn3{
+    padding: 10px 185px;
+}
+.lim{
+    width: 80%;
+}
+.or{
+    margin-left: 45%;
+}
+.pas{
+    margin-left: 65%;
+}
+.terms{
+    margin-top: 13%;
+    margin-left: 60%;
+}
+}
+@media only screen and (min-width:412px) and (max-width:914px){
+      .ber{
+       margin-left: 43%;
+      }
+      .now{
+        margin-left: 40%;
+      }
+}
+@media only screen and (min-width:820px) and (max-width:1180px){
+      .ber{
+        margin-left: 45%;
+      }
+      .now{
+        margin-left: 42%;
+      }
+}
+
+
+
+
+
+
+
+
